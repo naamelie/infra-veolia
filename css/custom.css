@@ -1,0 +1,38 @@
+/*Modif taille header*/
+header {
+	height: 150px;
+	background-color: #fff;
+}
+/*Changement du paralaxe*/
+.bg-1 {
+	background: url('/home/apprenti/Téléchargements/eau.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+.logo {
+	margin-top:15px;
+}
+h1 {
+	text-align: center;
+}
+
+.image_bat {
+	height: 400px;
+	width: 400px;
+}
+.text-center {
+	padding: auto;
+	line-height: 2;
+}
+
+.description {
+	padding:10%;
+}
+.page-header {
+	border-bottom: none;
+}
+.titre {
+	margin-top:30px;
+}
